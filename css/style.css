@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+
+  #password-output {
+    margin-bottom: 10px;
+  }
+
+  #response-input {
+    margin-bottom: 10px;
+  }
+
+  #response-input input[type="text"] {
+    width: 50px;
+  }
+
+  #copy-button {
+    margin-bottom: 10px;
+  }
